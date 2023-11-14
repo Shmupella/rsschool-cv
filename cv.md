@@ -1,6 +1,7 @@
 # Emilia Gareeva 
 Junior FrontEnd Developer
 
+![myPhoto](myPhoto.jpg)
 ## Contact Information:
 
 **Phone:** *8-996-107-15-32*
